@@ -1,0 +1,6 @@
+/workspaces/lab-1-introducao-dnnnt/exemplos
+/workspaces/lab-1-introducao-dnnnt
+/workspaces/lab-1-introducao-dnnnt/docs
+/workspaces/lab-1-introducao-dnnnt/outputs
+/workspaces/lab-1-introducao-dnnnt
+/workspaces/lab-1-introducao-dnnnt

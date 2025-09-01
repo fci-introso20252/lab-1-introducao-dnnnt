@@ -1,7 +1,7 @@
 # 📝 Relatório do Laboratório 1 - Introdução ao Linux
 
-**Nome:** [Seu nome aqui]  
-**RA:** [Seu RA aqui]  
+**Nome:** Joaquim Marcondes  
+**RA:** 10736261 
 
 ---
 
@@ -25,19 +25,19 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+eu acho que cd, ja que sempre entro e saio de pastas
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+tree, pq nao entendi muito bem aonde eu tava
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+sim
 ```
 
 ---
@@ -57,13 +57,13 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+acho que o linux, ja que sao mais leves, e todos os sistemas tem um pouco da basew do linux
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+em sistemas mais compactos, computadores antigos 
 ```
 
 ---
@@ -75,13 +75,13 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+e importante porque todos so sistemas acho que paretem do linux
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+por que o linux e extremamente usado emvarias areas
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
@@ -101,7 +101,7 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: 14
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
@@ -114,11 +114,11 @@ Tamanho: _____
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+1. cd
+2.  outputs
+3.  date 
+4.  pwd
+5.  ls
 ```
 
 ---
@@ -130,13 +130,13 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+nao 
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+permite varias programadores desenvolvere o mesmo codigo sem sobreescrever eles
 ```
 
 ---
@@ -148,13 +148,13 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+criar diretorios,adicionar ou remover algo
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+nao, apesar de sua facilidade, ainda acho q o meu sistema seria win, por mais que eu teria algum computador sec com linux
 ```
 
 ---
@@ -164,7 +164,7 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+a dinamica
 ```
 
 **O que poderia ser melhorado para próximos labs?**
