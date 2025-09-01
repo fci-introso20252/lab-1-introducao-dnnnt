@@ -101,7 +101,7 @@ por que o linux e extremamente usado emvarias areas
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: 14
+Total de arquivos: 19
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
