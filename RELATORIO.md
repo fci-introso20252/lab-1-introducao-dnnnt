@@ -108,7 +108,7 @@ Total de arquivos: 14
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: 40k
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
